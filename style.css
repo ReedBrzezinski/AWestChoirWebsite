@@ -7,4 +7,5 @@ ul {
 li a {
   display: block;
   width: 60px;
+  background-color: blue;
 }
