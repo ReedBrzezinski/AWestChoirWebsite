@@ -20,4 +20,6 @@ li a {
   height: 100px;
   background-color: #a64dff;
   text-align: center;
+  text-align-vertical: center;
+  text-vertical-align: center;
 }
