@@ -15,6 +15,7 @@ li a {
   width: 160px;
   height: 100px;
   background-color: #a64dff;
+  text-align: center;
 }
 li a hover{
  background-color: #39004d; 
