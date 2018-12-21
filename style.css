@@ -1,12 +1,12 @@
 p {
-  color: #ffff00;
+  color: #ff8f00;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-ul hover{
+li hover{
  background-color: #39004d; 
 }
 
