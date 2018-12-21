@@ -13,5 +13,9 @@ a {
 li a {
   display: block;
   width: 160px;
+  height: 300px;
   background-color: #a64dff;
+}
+li a hover{
+ background-color: #39004d; 
 }
