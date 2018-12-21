@@ -1,11 +1,15 @@
 p {
-  color: red;
+  color: #ffff00;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
+ul hover{
+ background-color: #39004d; 
+}
+
 a {
   color: black;
   text-decoration: none;
@@ -16,7 +20,4 @@ li a {
   height: 100px;
   background-color: #a64dff;
   text-align: center;
-}
-li a hover{
- background-color: #39004d; 
 }
