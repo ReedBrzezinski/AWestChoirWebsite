@@ -6,9 +6,6 @@ ul {
   margin: 20;
   padding: 0;
 }
-li a:hover{
- background-color: #39004d; 
-}
 
 a {
   color: black;
@@ -22,4 +19,8 @@ li a {
   text-align: center;
   text-align-vertical: center;
   text-vertical-align: center;
+}
+
+li a:hover{
+ background-color: #39004d; 
 }
