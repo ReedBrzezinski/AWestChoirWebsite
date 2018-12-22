@@ -6,7 +6,7 @@ ul {
   margin: 20;
   padding: 0;
 }
-li:hover{
+li a:hover{
  background-color: #39004d; 
 }
 
