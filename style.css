@@ -26,6 +26,6 @@ li a:hover {
  background-color: #4CAF50;
  color: white; 
 }
-li a:active {
+li a .active {
  background-color: #ff0000; 
 }
