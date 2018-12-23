@@ -22,10 +22,10 @@ li a {
   padding: 20px 30px 20px 30px;
 }
 
-li a:hover:not(active) {
+li a:hover:not(.active) {
  background-color: #4CAF50;
  color: white; 
 }
 .active {
- background-color: #ff0000; 
+ background-color: #ff00ff; 
 }
