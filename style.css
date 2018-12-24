@@ -1,11 +1,11 @@
 p {
-  color: #00ffff;
+  color: #f000ff;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  height: 100%;
+  height: 60%;
 }
 
 li {
