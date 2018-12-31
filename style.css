@@ -1,17 +1,22 @@
 p {
-  color: #ff0000;
+  color: #ff00ff;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   width: 25%;
-  height: 300px;
   position: fixed;
   overflow: auto;
 }
 
 li {
+}
+
+.menu {
+ height: 600px; 
+  
+  
 }
 
 a {
