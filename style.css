@@ -8,6 +8,7 @@ ul {
   width: 25%;
   position: fixed;
   overflow: auto;
+  height: 100%;
 }
 
 li {
@@ -15,7 +16,8 @@ li {
 
 .menu {
  height: 600px; 
-  
+ width: 25%;
+ background-color: blue;
   
 }
 
