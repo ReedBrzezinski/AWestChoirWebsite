@@ -17,7 +17,7 @@ li {
 .menu {
  height: 600px; 
  width: 25%;
- background-color: light-blue;
+ background-color: #66b3ff;
   
 }
 
@@ -44,5 +44,6 @@ a:hover:not(.active) {
 nav {
  background-color: #800055;
  height: 700px;
+ width: 30%;
 }
 
