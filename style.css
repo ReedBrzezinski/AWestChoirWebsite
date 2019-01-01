@@ -27,15 +27,16 @@ a {
   background-color: #a64dff;
   text-align: center;
   padding-left: 20px;
+  display: block;
 }
 li a {
   
 }
 
 a:hover:not(.active) {
- background-color: #ffAF00;
+ background-color: #ffbF00;
  color: white; 
 }
 .active {
- background-color: #0000ff; 
+ background-color: #1000ff; 
 }
