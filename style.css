@@ -15,7 +15,7 @@ li {
 }
 
 .menu {
- height: 600px; 
+ height: 100%; 
  width: 25%;
  background-color: #66b3ff;
   
@@ -34,7 +34,7 @@ li a {
 }
 
 a:hover:not(.active) {
- background-color: #00bF00;
+ background-color: #0000ff;
  color: white; 
 }
 .active {
