@@ -32,10 +32,10 @@ li a {
   
 }
 
-li a:hover:not(.active) {
+a:hover:not(.active) {
  background-color: #ffAF00;
  color: white; 
 }
 .active {
- background-color: #ff00ff; 
+ background-color: #0000ff; 
 }
