@@ -23,6 +23,7 @@ li {
   left: 0;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
+  background-color: #8ff055;
 }
 
 .menu {
@@ -52,9 +53,4 @@ a:hover:not(.active) {
  background-color: #1000ff; 
 }
 
-nav {
- background-color: #8ff055;
- height: 100%;
- width: 100%;
-}
 
