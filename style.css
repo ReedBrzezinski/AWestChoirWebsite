@@ -38,11 +38,12 @@ a {
 
 
 a:hover:not(.active) {
- background-color: #a64dff;
+ background-color: #8c1aff;
  color: white; 
 }
 .active {
- background-color: #8c1aff; 
+ background-color: #ffffff; 
+ color: black;
 }
 
 
