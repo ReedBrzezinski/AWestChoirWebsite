@@ -35,16 +35,14 @@ a {
   padding: 20px;
   display: block;
 }
-li a {
-  
-}
+
 
 a:hover:not(.active) {
  background-color: #0000ff;
  color: white; 
 }
 .active {
- background-color: #1000ff; 
+ background-color: #8c1aff; 
 }
 
 
