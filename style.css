@@ -1,19 +1,3 @@
-p {
-  color: #0000ff;
-}
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 25%;
-  position: fixed;
-  overflow: auto;
-  height: 500 px;
-}
-
-li {
-}
-
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
   width: 260px; /* Set the width of the sidebar */
@@ -24,7 +8,16 @@ li {
   background-color: #3d0099; /* Black */
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 40px;
+}
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  position: fixed;
+  overflow: auto;
+  height: 500 px;
 }
 
 a {
@@ -36,18 +29,22 @@ a {
   display: block;
 }
 
-
-a:hover:not(.active) {
- background-color: #8c1aff;
- color: white; 
-}
 .active {
  background-color: #d9d9d9; 
  color: black;
 }
 
+a:hover:not(.active) {
+ background-color: #8c1aff;
+ color: white; 
+}
+
 body {
  background-color: #d9d9d9; 
-  
 }
+
+p {
+  color: #0000ff;
+}
+
 
