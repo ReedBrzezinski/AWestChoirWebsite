@@ -44,12 +44,12 @@ body {
 
 header {
 text-align: center;
-box-shadow: 3px;
+margin: 0px; 
 background-color: #cccccc;
 }
 
 p {
-  color: #0000ff;
+  color: #000000;
 }
 
 
