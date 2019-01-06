@@ -45,6 +45,7 @@ body {
 header {
 text-align: center;
 box-shadow: 3px;
+background-color: #cccccc;
 }
 
 p {
