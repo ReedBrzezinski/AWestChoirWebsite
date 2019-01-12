@@ -76,6 +76,12 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
+    
+    var link = document.querySelector('link[rel="import"]');
+    var content = link.import;
+    var el = content.querySelector('.navigation');
+    document.body.appendChild(el.cloneNode(true));
+    
 </style>
 </head>
 <body>
