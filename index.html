@@ -76,11 +76,7 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
-    
-    var link = document.querySelector('link[rel="import"]');
-    var content = link.import;
-    var el = content.querySelector('.navigation');
-    document.body.appendChild(el.cloneNode(true));
+
     
 </style>
 </head>
@@ -151,6 +147,11 @@ function showSlides() {
   dots[slideIndex-1].className += " slactive";
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
+      
+    var link = document.querySelector('link[rel="import"]');
+    var content = link.import;
+    var el = content.querySelector('.navigation');
+    document.body.appendChild(el.cloneNode(true));
 </script>
   
     <p style="margin-left: 46%;">     The Arvada West Choral Music program has established itself as having one the premiere programs in the United States with an 
